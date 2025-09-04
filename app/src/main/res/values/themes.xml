@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.Flashcard" parent="Base.Theme.Flashcard" />
+    <style name="Theme.MyApp" parent="Theme.Material3.DayNight">
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
 </resources>
